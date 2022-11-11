@@ -1,0 +1,20 @@
+div {
+    display: inline-block;
+    background-color: aliceblue;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover {
+    background-color: rgba(99, 172, 235, 0.418);
+}
+
+/* 
+    
+    hover é usado para aparecer determinados
+    arquinos ou textos quando passa o mouse 
+    por cima do arquivo hover
+
+*/

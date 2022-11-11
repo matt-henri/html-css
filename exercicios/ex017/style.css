@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overlock+SC&display=swap');
+
+body {
+   font-family: 'Bebas Neue' sans-serif;
+    background-image: linear-gradient(#47bdec7c, #4c97ec70, #334ab16c, rgba(145, 9, 9, 0.267));
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', serif;
+    font-size: 50px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Overlock SC', serif;
+    font-size: 50px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+strong {
+    font: bold 5em 'arial' sans-serif;
+    /* shorthand font = agrupamento de todos as config da font
+    sempre seguir a ordem 
+    - font-style -> font-weight -> font-size -> font-family*/
+}
+
+img {
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    display: block;
+    
+
+}
+
+p {
+    text-align: justify;
+    text-indent: 40px;
+}
